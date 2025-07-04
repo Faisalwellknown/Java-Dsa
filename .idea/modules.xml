@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/First ide program.iml" filepath="$PROJECT_DIR$/First ide program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condition and loop.iml" filepath="$PROJECT_DIR$/condition and loop.iml" />
     </modules>
   </component>
 </project>
