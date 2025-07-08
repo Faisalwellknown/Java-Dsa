@@ -1,4 +1,4 @@
-
+package Arrays.src;
 import java.util.*;
 public class FindsmallestnuminArray {
 
