@@ -30,19 +30,10 @@ javaallscratch/
 
 
 
-mathematica
-
-Copy
-
-Edit
 
 
 
-\## How to Run
 
-
-
-```bash
 
 javac FileName.java
 
@@ -51,16 +42,4 @@ java FileName
 Then save and push it:
 
 
-
-bash
-
-Copy
-
-Edit
-
-git add README.md
-
-git commit -m "Added README.md with project structure and instructions"
-
-git push origin main
 
