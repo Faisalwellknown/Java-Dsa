@@ -18,15 +18,6 @@ This repository contains all my Java programs related to:
 
 \## Structure
 
-javaallscratch/
-
-├── Arrays/
-
-├── condition and loop/
-
-├── First ide program/
-
-├── Variable.java, plus.java, etc.
 
 
 
