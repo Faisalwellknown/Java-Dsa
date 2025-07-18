@@ -1,5 +1,4 @@
-
-    public class Profitorloss {
+public class Profitorloss {
 
     private int numberofBeetsSold;
     private int costPriceperBeet;
@@ -21,6 +20,3 @@
     }
 
 }
-
-
-
