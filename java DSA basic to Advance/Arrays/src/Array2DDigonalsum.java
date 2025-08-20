@@ -1,3 +1,4 @@
+// all the 2 d array
 public class Array2DDigonalsum {
    
 
