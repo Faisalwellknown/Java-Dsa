@@ -1,4 +1,4 @@
-
+// all arayy edit needed it is not optimal
 
 import java.util.*;
 public class Arraysall {
