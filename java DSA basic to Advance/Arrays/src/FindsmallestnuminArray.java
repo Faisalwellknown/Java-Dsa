@@ -1,3 +1,5 @@
+// Edited find samllest array num 
+
 package Arrays.src;
 
 public class FindsmallestnuminArray {
