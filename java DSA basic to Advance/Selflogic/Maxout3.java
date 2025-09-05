@@ -1,4 +1,4 @@
-
+// max out
 import java.util.Scanner;
 public class Maxout3 {
 
